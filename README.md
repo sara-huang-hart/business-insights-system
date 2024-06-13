@@ -20,11 +20,26 @@ Given sales data for an online office supply retailer that ships office supplies
    <br>
       <img src="Images/img-04.png" width="300">
    <br>  
-5. Then, the user can view products by a certain category or by all products. We will choose all products, so we will enter the number 4. (image here)
-6. First, to view the most profitable products, we will enter the number 1. (image here)  
-7. Next, the display tells the user how many total products there are and asks the user to enter a number for the number of products to be returned. (image here)  
-8. Finally, the name and profit of the most profitable products are displayed.  Next, to get the top 5 least profitable products, we will enter the number 1 to return to the product sales outlook menu. (image here)  
-9. Repeating the previous steps of selecting the options to view all products from the product sales outlook menus and entering the number 2, instead of 1, in the "all products" menu to display the least profitable products, the top 5 least profitable products will be displayed. (image here)  
+5. Then, the user can view products by a certain category or by all products. We will choose all products, so we will enter the number 4.  
+   <br>
+      <img src="Images/img-05.png" width="300">
+   <br>
+6. First, to view the most profitable products, we will enter the number 1. 
+   <br>
+      <img src="Images/img-06.png" width="300">
+   <br>  
+7. Next, the display tells the user how many total products there are and asks the user to enter a number for the number of products to be returned. 
+   <br>
+      <img src="Images/img-07.png" width="300">
+   <br>  
+8. Finally, the name and profit of the most profitable products are displayed.  Next, to get the top 5 least profitable products, we will enter the number 1 to return to the product sales outlook menu. 
+   <br>
+      <img src="Images/img-08.png" width="300">
+   <br> 
+9. Repeating the previous steps of selecting the options to view all products from the product sales outlook menus and entering the number 2, instead of 1, in the "all products" menu to display the least profitable products, the top 5 least profitable products will be displayed.  
+   <br>
+      <img src="Images/img-09.png" width="300">
+   <br>  
 
 This is just an example of one of the many ways that users of this organization can gain insights into the company's sales data.  
 
