@@ -3,9 +3,11 @@ Given sales data for an online office supply retailer that ships office supplies
 
 <i>In collaboration with Dilpreet Gujral and Jyotsna Kethepalli.</i>  
 
-### How it Works  
+### :question: How it Works  
 To get access to the system, users are asked to login. (image here)  
 
-### Future Project Ideas  
+### :key: Key Findings  
+
+### :cloud: Future Project Ideas  
 
 
