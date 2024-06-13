@@ -38,7 +38,7 @@ Given sales data for an online office supply retailer that ships office supplies
    <br> 
 9. Repeating the previous steps of selecting the options to view all products from the product sales outlook menus and entering the number 2, instead of 1, in the "all products" menu to display the least profitable products, the top 5 least profitable products will be displayed.  
    <br>
-      <img src="Images/img-09.png" width="300">
+      <img src="Images/img-09.png" width="600">
    <br>  
 
 This is just an example of one of the many ways that users of this organization can gain insights into the company's sales data.  
