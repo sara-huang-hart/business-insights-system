@@ -8,7 +8,7 @@ Created on Tue Dec  4 09:28:38 2018
 import sqlite3
 import pandas as pd
 import matplotlib.pyplot as plt
-xl = pd.ExcelFile("FA18SalesData.xlsx")
+xl = pd.ExcelFile("Data.xlsx")
 SalesData = xl.parse("Orders")
 lines = '-' * 45
 dbl_lines = '=' * 45
