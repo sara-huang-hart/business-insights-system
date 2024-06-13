@@ -3,7 +3,7 @@ Given sales data for an online office supply retailer that ships office supplies
 
 <i>In collaboration with Dilpreet Gujral and Jyotsna Kethepalli.</i>  
 
-### :question: How it Works  
+## :question: How it Works  
 1. To get access to the system, users are asked to log in.  
    <br>
       <img src="Images/img-01.png" width="300">
@@ -43,11 +43,11 @@ Given sales data for an online office supply retailer that ships office supplies
 
 This is just an example of one of the many ways that users of this organization can gain insights into the company's sales data.  
 
-### :key: Key Findings and Recommendations  
-<b>Product-Profit Correlation</b>  
+## :key: Key Findings and Recommendations  
+Product-Profit Correlation   
 
 
-### :cloud: Future Project Ideas  
+## :cloud: Future Project Ideas  
 If I were to improve this project, I would...    
 - add a "Forgot Your Password?" option on the login section
 - create a user-friendly UI for the system  
