@@ -4,8 +4,8 @@ Given sales data for an online office supply retailer that ships office supplies
 <i>In collaboration with Dilpreet Gujral and Jyotsna Kethepalli.</i>  
 
 ### :question: How it Works  
-1. To get access to the system, users are asked to log in.
-   <img src="Images/img-01.png" width="100">  
+1. To get access to the system, users are asked to log in.  
+   <img src="Images/img-01.png" width="500">  
 3. Once logged in, the user is given options. (image here)    
 4. For example, if a user wants to gain insights on the most and the least profitable products, the user would enter the number 2 to be taken to the display for the product sales outlook. (image here)  
 5. This display allows the user to choose to view the data by subcategories or products. Since we want to look at products, we would enter the number 2. (image here)  
