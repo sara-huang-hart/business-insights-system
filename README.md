@@ -17,6 +17,7 @@ To get access to the system, users are asked to log in. (image here)
 This is just an example of one of the many ways that users of this organization can gain insights into the company's sales data.  
 
 ### :key: Key Findings and Recommendations  
+<b>Product-Profit Correlation</b>  
 
 
 ### :cloud: Future Project Ideas  
