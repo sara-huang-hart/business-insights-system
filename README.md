@@ -6,16 +6,25 @@ Given sales data for an online office supply retailer that ships office supplies
 ### :question: How it Works  
 1. To get access to the system, users are asked to log in.  
    <br>
-   <img src="Images/img-01.png" width="250">
+      <img src="Images/img-01.png" width="300">
    <br>
-3. Once logged in, the user is given options. (image here)    
-4. For example, if a user wants to gain insights on the most and the least profitable products, the user would enter the number 2 to be taken to the display for the product sales outlook. (image here)  
-5. This display allows the user to choose to view the data by subcategories or products. Since we want to look at products, we would enter the number 2. (image here)  
-6. Then, the user can view products by a certain category or by all products. We will choose all products, so we will enter the number 4. (image here)
-7. First, to view the most profitable products, we will enter the number 1. (image here)  
-8. Next, the display tells the user how many total products there are and asks the user to enter a number for the number of products to be returned. (image here)  
-9. Finally, the name and profit of the most profitable products are displayed.  Next, to get the top 5 least profitable products, we will enter the number 1 to return to the product sales outlook menu. (image here)  
-10. Repeating the previous steps of selecting the options to view all products from the product sales outlook menus and entering the number 2, instead of 1, in the "all products" menu to display the least profitable products, the top 5 least profitable products will be displayed. (image here)  
+2. Once logged in, the user is given options.  
+   <br>
+      <img src="Images/img-02.png" width="300">
+   <br>   
+3. For example, if a user wants to gain insights on the most and the least profitable products, the user would enter the number 2 to be taken to the display for the product sales outlook.  
+   <br>
+      <img src="Images/img-03.png" width="300">
+   <br>
+4. This display allows the user to choose to view the data by subcategories or products. Since we want to look at products, we would enter the number 2.  
+   <br>
+      <img src="Images/img-04.png" width="300">
+   <br>  
+5. Then, the user can view products by a certain category or by all products. We will choose all products, so we will enter the number 4. (image here)
+6. First, to view the most profitable products, we will enter the number 1. (image here)  
+7. Next, the display tells the user how many total products there are and asks the user to enter a number for the number of products to be returned. (image here)  
+8. Finally, the name and profit of the most profitable products are displayed.  Next, to get the top 5 least profitable products, we will enter the number 1 to return to the product sales outlook menu. (image here)  
+9. Repeating the previous steps of selecting the options to view all products from the product sales outlook menus and entering the number 2, instead of 1, in the "all products" menu to display the least profitable products, the top 5 least profitable products will be displayed. (image here)  
 
 This is just an example of one of the many ways that users of this organization can gain insights into the company's sales data.  
 
