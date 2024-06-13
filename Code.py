@@ -20,7 +20,7 @@ def homepage():
     print("Login to get started.")
 
 def login():   
-    conn = sqlite3.connect('OS_Employee.db')
+    conn = sqlite3.connect('Database_Employees.db')
     with conn:
         cur=conn.cursor()
         print("\n------------------- LOGIN -------------------")
