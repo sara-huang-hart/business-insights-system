@@ -30,11 +30,11 @@ Given sales data for an online office supply retailer that ships office supplies
    <br>  
 7. Next, the display tells the user how many total products there are and asks the user to enter a number for the number of products to be returned. 
    <br>
-      <img src="Images/img-07.png" width="300">
+      <img src="Images/img-07.png" width="600">
    <br>  
 8. Finally, the name and profit of the most profitable products are displayed.  Next, to get the top 5 least profitable products, we will enter the number 1 to return to the product sales outlook menu. 
    <br>
-      <img src="Images/img-08.png" width="300">
+      <img src="Images/img-08.png" width="600">
    <br> 
 9. Repeating the previous steps of selecting the options to view all products from the product sales outlook menus and entering the number 2, instead of 1, in the "all products" menu to display the least profitable products, the top 5 least profitable products will be displayed.  
    <br>
