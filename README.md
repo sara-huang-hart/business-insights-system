@@ -44,7 +44,8 @@ Given sales data for an online office supply retailer that ships office supplies
 This is just an example of one of the many ways that users of this organization can gain insights into the company's sales data.  
 
 ## :key: Key Findings and Recommendations  
-Product-Profit Correlation   
+Product-Profit Correlation  
+- Our recommendation to minimize negative profits is to review the least profitable and most profitable products and implement a mix-and-match or bundled sales promotion, where customers could purchase an underperforming product and a profitable product together. 
 
 
 ## :cloud: Future Project Ideas  
