@@ -14,7 +14,7 @@ Given sales data for an online office supply retailer that ships office supplies
    <br>   
 3. For example, if a user wants to gain insights on the most and the least profitable products, the user would enter the number 2 to be taken to the display for the product sales outlook.  
    <br>
-      <img src="Images/img-03.png" width="300">
+      <img src="Images/img-03.png" width="400">
    <br>
 4. This display allows the user to choose to view the data by subcategories or products. Since we want to look at products, we would enter the number 2.  
    <br>
