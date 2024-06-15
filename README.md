@@ -45,7 +45,10 @@ This is just an example of one of the many ways that users of this organization 
 
 ## :key: Key Findings and Recommendations  
 Product-Profit Correlation  
-- Our recommendation to minimize negative profits is to review the least profitable and most profitable products and implement a mix-and-match or bundled sales promotion, where customers could purchase an underperforming product and a profitable product together. 
+- Our recommendation to minimize negative profits is to review the least profitable and most profitable products and implement a mix-and-match or bundled sales promotion, where customers could purchase an underperforming product and a profitable product together. The table below shows the top 5 most profitable and top 5 least profitable products:
+   <br>
+      <img src="Images/img-findings-01.png" width="600">
+   <br>  
 
 
 ## :cloud: Future Project Ideas  
