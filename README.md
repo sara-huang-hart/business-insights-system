@@ -14,7 +14,7 @@ Given sales data for an online office supply retailer that ships office supplies
    <br>   
 3. For example, if a user wants to gain insights on the most and the least profitable products, the user would enter the number 2 to be taken to the display for the product sales outlook.  
    <br>
-      <img src="Images/img-03.png" width="500">
+      <img src="Images/img-03.png" width="300">
    <br>
 4. This display allows the user to choose to view the data by subcategories or products. Since we want to look at products, we would enter the number 2.  
    <br>
@@ -47,7 +47,7 @@ This is just an example of one of the many ways that users of this organization 
 Product-Profit Correlation  
 - Our recommendation to minimize negative profits is to review the least profitable and most profitable products and implement a mix-and-match or bundled sales promotion, where customers could purchase an underperforming product and a profitable product together. The table below shows the top 5 most profitable and top 5 least profitable products:
    <br>
-      <img src="Images/img-findings-01.png" width="300">
+      <img src="Images/img-findings-01.png" width="500">
    <br>  
 
 
