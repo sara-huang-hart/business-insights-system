@@ -56,16 +56,21 @@ Profit-Quantity Sold Correlation
    <br>
       <img src="Images/img-findings-02.png" width="500">
    <br>
-   It appears that the central region has the lowest profit even though it has sold more units than the south region.
-- Our recommendation for this is to increase market research on the central region and decide whether or not it is worth investing in. With a better understanding of the market and customers in that region, further improvement of customer satisfaction and market strategies is possible.
-- Note: when viewing the data by region, a graph will pop up depending on which insight is requested.  
+   The central region has the lowest profit even though it has sold more units than the south region.
+- Our recommendation is to increase market research on the central region and decide whether or not it is worth investing in. With a better understanding of the market and customers in that region, further improvement of customer satisfaction and market strategies is possible.
+- Note: when viewing the data by region, a graph will pop up depending on the requested insight.  
    <br>
       <img src="Images/img-findings-03.png" width="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="Images/img-findings-04.png" width="250">
    <br>
 
-  Quarterly Insights
-  - The findings show that quarters 1 and 2 are the most underperforming
+Quarterly Insights
+- This chart shows the profit by quarters.
+  <br>
+     <img src="Images/img-findings-05.png" width="200">
+  <br>
+ Quarters 1 and 2 are the most underperforming.  
+- Our recommendation is for the company to try an off-season strategy to increase overall yearly growth, with new seasonal promotions and limited-time specials based on low sales periods. Off-season strategies can be opportunities for customers to win a gift with their purchases and/or a customer loyalty program that rewards frequent purchases.  
 
 ## :cloud: Future Project Ideas  
 If I were to improve this project, I would...    
