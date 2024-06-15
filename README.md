@@ -61,7 +61,7 @@ Profit-Quantity Sold Correlation
 - Note: when viewing the data by region, a graph will pop up depending on which insight is requested.  
    <br>
       <img src="Images/img-findings-03.png" width="200">
-      <img src="Images/img-findings-04.png" width="300">
+      <img src="Images/img-findings-04.png" width="200">
    <br>
 
 
