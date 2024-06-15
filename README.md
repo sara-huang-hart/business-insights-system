@@ -52,7 +52,7 @@ Product-Profit Correlation
 - Our recommendation to minimize negative profits is to review the least profitable and most profitable products and implement a mix-and-match or bundled sales promotion, where customers could purchase an underperforming product and a profitable product together.  
 
 Profit-Quantity Sold Correlation
--  This table shows the profit and units sold by region.
+-  This table shows the profit and units sold by region.  
    <br>
       <img src="Images/img-findings-02.png" width="500">
    <br>
