@@ -45,10 +45,20 @@ This is just an example of one of the many ways that users of this organization 
 
 ## :key: Key Findings and Recommendations  
 Product-Profit Correlation  
-- Our recommendation to minimize negative profits is to review the least profitable and most profitable products and implement a mix-and-match or bundled sales promotion, where customers could purchase an underperforming product and a profitable product together. The table below shows the top 5 most profitable and top 5 least profitable products:
+- This table shows the top 5 most profitable and top 5 least profitable products:  
    <br>
       <img src="Images/img-findings-01.png" width="500">
    <br>  
+- Our recommendation to minimize negative profits is to review the least profitable and most profitable products and implement a mix-and-match or bundled sales promotion, where customers could purchase an underperforming product and a profitable product together.  
+
+Profit-Quantity Sold Correlation
+-  This table shows the profit and units sold by region.
+   <br>
+      <img src="Images/img-findings-02.png" width="500">
+   <br>
+   It appears that the central region has the lowest profit even though it has sold more units than the south region.
+- Our recommendation for this is to increase market research on the central region and decide whether or not it is worth investing in. With a better understanding of the market and customers in that region, further improvement of customer satisfaction and market strategies is possible.
+- Note: when 
 
 
 ## :cloud: Future Project Ideas  
