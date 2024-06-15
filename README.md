@@ -58,9 +58,9 @@ Profit-Quantity Sold Correlation
    <br>
    It appears that the central region has the lowest profit even though it has sold more units than the south region.
 - Our recommendation for this is to increase market research on the central region and decide whether or not it is worth investing in. With a better understanding of the market and customers in that region, further improvement of customer satisfaction and market strategies is possible.
-- Note: when viewing the data by region, a graph will pop up depending on which insight is requested.
+- Note: when viewing the data by region, a graph will pop up depending on which insight is requested.  
    <br>
-      <img src="Images/img-findings-03.png" width="300">
+      <img src="Images/img-findings-03.png" width="200">
       <img src="Images/img-findings-04.png" width="300">
    <br>
 
