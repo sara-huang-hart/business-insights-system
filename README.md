@@ -64,6 +64,8 @@ Profit-Quantity Sold Correlation
       <img src="Images/img-findings-04.png" width="250">
    <br>
 
+  Quarterly Insights
+  - The findings show that quarters 1 and 2 are the most underperforming
 
 ## :cloud: Future Project Ideas  
 If I were to improve this project, I would...    
