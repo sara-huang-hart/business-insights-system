@@ -4,7 +4,7 @@ Given sales data for an online office supply retailer that ships office supplies
 <i>In collaboration with Dilpreet Gujral and Jyotsna Kethepalli.</i>  
 
 ## :question: How it Works  
-1. To get access to the system, users are asked to log in.  
+1. To access the system, users are asked to log in.  
    <br>
       <img src="Images/img-01.png" width="300">
    <br>
