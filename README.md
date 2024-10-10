@@ -3,7 +3,7 @@ Given sales data for an online office supply retailer that ships office supplies
 
 <i>In collaboration with Dilpreet Gujral and Jyotsna Kethepalli.</i>  
 
-## :question: How it Works  
+# :question: How it Works  
 1. To access the system, users are asked to log in.  
    <br>
       <img src="Images/img-01.png" width="300">
@@ -43,7 +43,7 @@ Given sales data for an online office supply retailer that ships office supplies
 
 This is just an example of one of the many ways that users of this organization can gain insights into the company's sales data.  
 
-## :key: Key Findings and Recommendations  
+# :key: Key Findings and Recommendations  
 Product-Profit Correlation  
 - This table shows the top 5 most profitable and top 5 least profitable products:  
    <br>
@@ -72,7 +72,7 @@ Quarterly Insights
  Quarters 1 and 2 are the most underperforming.  
 - Our recommendation is for the company to try an off-season strategy to increase overall yearly growth, with new seasonal promotions and limited-time specials based on low sales periods. Off-season strategies can be opportunities for customers to win a gift with their purchases and/or a customer loyalty program that rewards frequent purchases.  
 
-## :cloud: Future Project Ideas  
+# :cloud: Future Project Ideas  
 If I were to improve this project, I would...    
 - add a "Forgot Your Password?" option on the login section
 - create a user-friendly UI for the system  
